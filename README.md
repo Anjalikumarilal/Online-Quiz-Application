@@ -32,4 +32,4 @@ A Java-based Online Quiz Application developed using JSP, Servlets, MySQL, and A
 5. Run the project.
 
 ## Author
-Anjali Kumari
+Anjali Kumari Lal
