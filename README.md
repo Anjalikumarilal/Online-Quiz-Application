@@ -1,6 +1,6 @@
 # Online Quiz Application
 
-A Java-based Online Quiz Application developed using JSP, Servlets, MySQL, and Apache Tomcat.
+A Java-based Online Quiz Application Developed using JSP, Servlets, MySQL, and Apache Tomcat.
 
 ## Features
 - User Registration
